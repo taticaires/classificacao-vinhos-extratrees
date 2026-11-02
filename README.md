@@ -31,6 +31,23 @@ A base reúne 6.497 amostras de vinhos verdes portugueses (1.599 tintos e 4.898 
 
 **Licença da base:** CC BY 4.0.
 
-## Sobre o projeto
 
-Este trabalho foi desenvolvido em contexto acadêmico como exercício de análise de dados e introdução a Machine Learning. O foco é demonstrar o processo de preparação dos dados, treinamento e avaliação de um modelo de classificação.
+## Contexto acadêmico
+
+Este projeto foi desenvolvido como parte de uma atividade acadêmica durante meus estudos em Inteligência Artificial.
+
+A proposta foi explorar técnicas de Machine Learning utilizando Python, Pandas e Scikit-learn, aplicando um modelo Extra Trees Classifier para classificação de vinhos tintos e brancos a partir de suas características físico-químicas.
+
+O exercício permitiu colocar em prática conceitos de:
+- Análise exploratória de dados;
+- Preparação e tratamento de dados;
+- Treinamento de modelos de Machine Learning;
+- Avaliação de modelos de classificação.
+
+**Contexto:** Projeto acadêmico desenvolvido com orientação em sala de aula.
+
+**Tecnologias:** Python, Pandas, Matplotlib, Seaborn e Scikit-learn.
+
+**Orientação acadêmica:** Professora Rita Cassiano.
+
+**Natureza do projeto:** Atividade prática desenvolvida em sala de aula, com orientação docente.
